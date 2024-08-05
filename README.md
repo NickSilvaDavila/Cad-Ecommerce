@@ -121,6 +121,23 @@ O projeto utiliza as seguintes tecnologias:
 - **HTML/CSS:** Markup e estilo para o front-end.
 - **JavaScript/jQuery:** Para interatividade e manipulação do DOM.
 
+### Estrutura do Projeto
+
+O projeto está organizado da seguinte forma:
+
+#### Pasta `controller`
+
+Esta pasta contém os arquivos responsáveis pelo controle das operações do carrinho e dos produtos.
+
+- **carrinho-add.php**
+- **carrinho-busca.php**
+- **carrinho-remover.php**
+- **conexao.php**
+- **produtos-busca.php**
+- **produtos-pedido.php**
+- **produtos-resumo.php**
+
+
 
 
 
