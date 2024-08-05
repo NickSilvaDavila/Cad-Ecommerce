@@ -125,7 +125,7 @@ O projeto utiliza as seguintes tecnologias:
 
 O projeto está organizado da seguinte forma:
 
-#### Pasta  `controller`
+#### Pasta `controller`
 
 Esta pasta contém os arquivos responsáveis pelo controle das operações do carrinho e dos produtos.
 
@@ -151,6 +151,14 @@ Esta pasta contém os arquivos principais do sistema.
 - **marca.php**
 - **pedido.php**
 - **produtos.php**
+
+### Métodos PHP Utilizados
+
+- **`mysqli_connect`**: Estabelece uma conexão com um servidor MySQL.
+- **`mysqli_query`**: Executa uma consulta no banco de dados.
+- **`mysqli_fetch_assoc`**: Retorna uma linha de resultado como uma matriz associativa.
+- **`mysqli_close`**: Fecha a conexão com o banco de dados.
+
 
 
 
