@@ -84,12 +84,12 @@ A estrutura do banco de dados é composta por tabelas que armazenam informaçõe
   - **IDMARCA:** Identificador da marca do produto.
     
  
-  - **Categoria**
+- **Categoria**
   - **IDCATEGORIA:** Identificador da categoria.
   - **DESCRICAO:** Descrição da categoria.
     
  
-    - **Marca**
+- **Marca**
   - **IDMARCA:** Identificador da marca.
   - **DESCRICAO:** Descrição da marca.
  
@@ -99,11 +99,18 @@ A estrutura do banco de dados é composta por tabelas que armazenam informaçõe
   - **NOME:** Nome do cliente.
   - **EMAIL:** E-mail do cliente.
  
-  - **Pedido**
+- **Pedido**
   - **IDPED:** Identificador do pedido.
   - **IDCLI:** Identificador do cliente que realizou o pedido.
   - **IDFOR:** Identificador do fornecedor.
   - **STATUS:** Status do pedido.
+ 
+- **Itens**
+  - **IDITEM:** Identificador do item.
+  - **IDPED:** Identificador do pedido.
+  - **IDPROD:** Identificador do produto.
+  - **QNT:** Quantidade do produto.
+
 
 
 
