@@ -72,6 +72,19 @@ A aplicação de e-commerce foi criada para facilitar o processo de compra onlin
 
 A estrutura do banco de dados é composta por tabelas que armazenam informações sobre produtos, categorias, marcas, clientes, pedidos e itens do pedido.
 
+#### Estrutura das Tabelas
+
+- **Produtos**
+  - **IDPROD:** Identificador do produto.
+  - **NOME:** Nome do produto.
+  - **DESCRICAO:** Descrição do produto.
+  - **PRECO:** Preço do produto.
+  - **ESTOQUE:** Quantidade em estoque.
+  - **IDCATEGORIA:** Identificador da categoria do produto.
+  - **IDMARCA:** Identificador da marca do produto.
+
+
+
 
 
 
