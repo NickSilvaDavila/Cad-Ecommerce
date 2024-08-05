@@ -171,6 +171,12 @@ Esta pasta contém os arquivos principais do sistema.
 - **marca.php:** Formulário para cadastro de marcas.
 - **insere-marca.php:** Código PHP para inserir uma nova marca no banco de dados.
 
+##### Cadastro de Produto
+
+- **produtos.php:** Formulário para cadastro de produtos.
+- **insere-produto.php:** Código PHP para inserir um novo produto no banco de dados.
+
+
 
 
 
