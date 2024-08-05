@@ -125,7 +125,7 @@ O projeto utiliza as seguintes tecnologias:
 
 O projeto está organizado da seguinte forma:
 
-#### Pasta `controller`
+#### Pasta  `controller`
 
 Esta pasta contém os arquivos responsáveis pelo controle das operações do carrinho e dos produtos.
 
@@ -136,6 +136,22 @@ Esta pasta contém os arquivos responsáveis pelo controle das operações do ca
 - **produtos-busca.php**
 - **produtos-pedido.php**
 - **produtos-resumo.php**
+
+
+#### Pasta Geral  `CADECOMMERCE`
+
+Esta pasta contém os arquivos principais do sistema.
+
+- **carrinho.php**
+- **categoria.php**
+- **indice.php**
+- **inserir-categoria.php**
+- **inserir-marca.php**
+- **inserir-produto.php**
+- **marca.php**
+- **pedido.php**
+- **produtos.php**
+
 
 
 
