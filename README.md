@@ -180,6 +180,15 @@ Esta pasta contém os arquivos principais do sistema.
 
 Todos os arquivos PHP neste projeto contêm comentários explicando as funcionalidades inovadoras. Esses comentários ajudam na compreensão do fluxo do código e na manutenção futura.
 
+### Fontes Consultadas
+
+- [Inteligência Artificial](https://chat.openai.com/)
+- [Alura](https://www.alura.com.br/artigos/escrever-bom-readme)
+- [Documentação PHP](https://www.php.net/manual/pt_BR/)
+- [Documentação MySQL](https://dev.mysql.com/doc/)
+- [jQuery Documentation](https://jquery.com/)
+
+
 
 
 
