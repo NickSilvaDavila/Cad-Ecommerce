@@ -56,6 +56,18 @@ A aplicação de e-commerce foi criada para facilitar o processo de compra onlin
 
 - **`controller/produtos-resumo.php`**
   - **Descrição:** Exibe o resumo do pedido. Usa a classe `Produtos` e seu método `resumo()`.
+ 
+  #### Model
+
+- **`cadMarca.php`**
+  - **Descrição:** Cadastro de marcas.
+
+- **`Carrinho.class.php`**
+  - **Descrição:** Este arquivo contém a classe `Carrinho` que gerencia o carrinho de compras. Inclui métodos para adicionar, buscar e remover produtos do carrinho.
+
+- **`Produtos.class.php`**
+  - **Descrição:** Este arquivo contém a classe `Produtos` que gerencia a busca e exibição de produtos, além de gerenciar pedidos. Inclui métodos para buscar produtos, finalizar pedidos e gerar resumos.
+
 
 
 
