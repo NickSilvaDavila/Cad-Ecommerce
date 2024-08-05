@@ -22,23 +22,15 @@
 
 Este projeto é uma aplicação de e-commerce que permite aos usuários navegar por produtos, adicionar itens ao carrinho, realizar pedidos e cadastrar novos produtos e clientes. A aplicação é desenvolvida utilizando PHP para o backend, com um banco de dados MySQL, e uma interface web simples usando HTML, CSS e JavaScript.
 
-<img src="_img/Banco de Dados.png" width="30%">
+![image info](Banco de Dados.png)
+![image info](categoria.achocolatado.png)
+![image info](Produtos.php.png)
+![image info](Importante.atividade.png)
+![image info](Index2.php.png)
+![image info](Marca.php.png)
+![image info](marca.produtos.png)
+![image info](Produtos_Itens.png)
 
-<img src="_img/categoria.achocolatado.png" width="30%">
-
-<img src="_img/Categoria.php.png" width="30%">
-
-<img src="_img/Produtos.php.png" width="30%">
-
-<img src="_img/Importante.atividade.png" width="30%">
-
-<img src="_img/Index2.php.png" width="30%">
-
-<img src="_img/Marca.php.png" width="30%">
-
-<img src="_img/marca.produtos.png" width="30%">
-
-<img src="_img/Produtos_Itens.png" width="30%">
 
 ### Introdução
 
