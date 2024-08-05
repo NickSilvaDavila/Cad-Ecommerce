@@ -159,6 +159,13 @@ Esta pasta contém os arquivos principais do sistema.
 - **`mysqli_fetch_assoc`**: Retorna uma linha de resultado como uma matriz associativa.
 - **`mysqli_close`**: Fecha a conexão com o banco de dados.
 
+#### Exemplos Auxiliares
+
+##### Cadastro de Categoria
+
+- **categoria.php:** Formulário para cadastro de categorias.
+- **insere-categoria.php:** Código PHP para inserir uma nova categoria no banco de dados.
+
 
 
 
