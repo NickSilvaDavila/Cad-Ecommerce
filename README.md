@@ -98,6 +98,13 @@ A estrutura do banco de dados é composta por tabelas que armazenam informaçõe
   - **IDCLI:** Identificador do cliente.
   - **NOME:** Nome do cliente.
   - **EMAIL:** E-mail do cliente.
+ 
+  - **Pedido**
+  - **IDPED:** Identificador do pedido.
+  - **IDCLI:** Identificador do cliente que realizou o pedido.
+  - **IDFOR:** Identificador do fornecedor.
+  - **STATUS:** Status do pedido.
+
 
 
 
