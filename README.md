@@ -82,6 +82,12 @@ A estrutura do banco de dados é composta por tabelas que armazenam informaçõe
   - **ESTOQUE:** Quantidade em estoque.
   - **IDCATEGORIA:** Identificador da categoria do produto.
   - **IDMARCA:** Identificador da marca do produto.
+ 
+  - **Categoria**
+  - **IDCATEGORIA:** Identificador da categoria.
+  - **DESCRICAO:** Descrição da categoria.
+
+
 
 
 
