@@ -92,6 +92,13 @@ A estrutura do banco de dados é composta por tabelas que armazenam informaçõe
     - **Marca**
   - **IDMARCA:** Identificador da marca.
   - **DESCRICAO:** Descrição da marca.
+ 
+  
+- **Cliente**
+  - **IDCLI:** Identificador do cliente.
+  - **NOME:** Nome do cliente.
+  - **EMAIL:** E-mail do cliente.
+
 
 
 
