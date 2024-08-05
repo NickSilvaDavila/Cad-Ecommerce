@@ -67,6 +67,12 @@ A aplicação de e-commerce foi criada para facilitar o processo de compra onlin
 
 - **`Produtos.class.php`**
   - **Descrição:** Este arquivo contém a classe `Produtos` que gerencia a busca e exibição de produtos, além de gerenciar pedidos. Inclui métodos para buscar produtos, finalizar pedidos e gerar resumos.
+ 
+  ### Banco de Dados
+
+A estrutura do banco de dados é composta por tabelas que armazenam informações sobre produtos, categorias, marcas, clientes, pedidos e itens do pedido.
+
+
 
 
 
