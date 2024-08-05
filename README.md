@@ -188,6 +188,10 @@ Todos os arquivos PHP neste projeto contêm comentários explicando as funcional
 - [Documentação MySQL](https://dev.mysql.com/doc/)
 - [jQuery Documentation](https://jquery.com/)
 
+### Autores
+
+- **Nicolly da Silva D'avila 3*A**
+
 
 
 
