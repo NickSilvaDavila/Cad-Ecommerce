@@ -34,5 +34,29 @@ A aplicação de e-commerce foi criada para facilitar o processo de compra onlin
 4. **Cadastro de Produtos:** Interface para adicionar novos produtos ao banco de dados.
 5. **Cadastro de Categorias e Marcas:** Interface para cadastrar novas categorias e marcas.
 
+### Códigos
+
+- **`controller/carrinho-add.php`**
+  - **Descrição:** Adiciona um produto ao carrinho. Usa a classe `Carrinho` e seu método `add()`.
+
+- **`controller/carrinho-busca.php`**
+  - **Descrição:** Busca e exibe os produtos no carrinho. Usa a classe `Carrinho` e seu método `buscar()`.
+
+- **`controller/carrinho-remover.php`**
+  - **Descrição:** Remove um produto do carrinho. Usa a classe `Carrinho` e seu método `remover()`.
+
+- **`controller/conexao.php`**
+  - **Descrição:** Estabelece a conexão com o banco de dados MySQL.
+
+- **`controller/produtos-busca.php`**
+  - **Descrição:** Busca e exibe produtos disponíveis. Usa a classe `Produtos` e seu método `buscar()`.
+
+- **`controller/produtos-pedido.php`**
+  - **Descrição:** Finaliza o pedido e atualiza o estoque. Usa a classe `Produtos` e seu método `pedido()`.
+
+- **`controller/produtos-resumo.php`**
+  - **Descrição:** Exibe o resumo do pedido. Usa a classe `Produtos` e seu método `resumo()`.
+
+
 
 
