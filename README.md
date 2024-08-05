@@ -158,6 +158,10 @@ Esta pasta contém os arquivos principais do sistema.
 - **`mysqli_query`**: Executa uma consulta no banco de dados.
 - **`mysqli_fetch_assoc`**: Retorna uma linha de resultado como uma matriz associativa.
 - **`mysqli_close`**: Fecha a conexão com o banco de dados.
+- **`mysqli_fetch_object`**: Esta função busca uma linha de resultado de uma consulta MySQL e a retorna como um objeto.
+- **`mysqli_insert_id`**: Esta função retorna o ID gerado automaticamente (auto-incremento) pela última consulta  ´INSERT ` realizada na conexão especificada.
+- **`mysqli_affected_rows`**: Esta função retorna o número de linhas afetadas pela última operação `INSERT`, `UPDATE`, `REPLACE` ou  `DELETE` realizada na conexão especificada.
+
 
 #### Exemplos Auxiliares
 
