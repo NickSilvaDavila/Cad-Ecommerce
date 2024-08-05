@@ -166,6 +166,12 @@ Esta pasta contém os arquivos principais do sistema.
 - **categoria.php:** Formulário para cadastro de categorias.
 - **insere-categoria.php:** Código PHP para inserir uma nova categoria no banco de dados.
 
+##### Cadastro de Marca
+
+- **marca.php:** Formulário para cadastro de marcas.
+- **insere-marca.php:** Código PHP para inserir uma nova marca no banco de dados.
+
+
 
 
 
