@@ -112,6 +112,15 @@ A estrutura do banco de dados é composta por tabelas que armazenam informaçõe
   - **QNT:** Quantidade do produto.
 
 
+### Tecnologias Utilizadas
+
+O projeto utiliza as seguintes tecnologias:
+
+- **PHP:** Linguagem de programação para a lógica do servidor.
+- **MySQL:** Sistema de gerenciamento de banco de dados.
+- **HTML/CSS:** Markup e estilo para o front-end.
+- **JavaScript/jQuery:** Para interatividade e manipulação do DOM.
+
 
 
 
